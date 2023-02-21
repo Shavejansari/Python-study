@@ -1,19 +1,19 @@
-# greeting = "Good Morning, "
-# name = "Zapbuild"
+greeting = "Good Morning, "
+name = "Zapbuild"
 
 
-# d = '''I am Mohd Shavej.
+d = '''I am Mohd Shavej.
 
-# This is my python's practice program.
+This is my python's practice program.
 
-# "For DevOps"
+"For DevOps"
 
-# '''
-# # print(greeting + name)
-# c = (greeting + name)
-# print (c)
-# print (d)
-
+ '''
+# print(greeting + name)
+c = (greeting + name)
+print (c)
+print (d)
+####################################################################################################################
 
 name = "ABCDEFGHIJKLM"
 # print (name [1:3])
